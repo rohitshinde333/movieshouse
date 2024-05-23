@@ -2,6 +2,8 @@
 
 ## Introduction
 The Movie Ticket Booking System is a project aimed at streamlining the process of booking movie tickets. It provides users with a user-friendly platform to explore available movies, view showtimes, select seats, and make reservations. Additionally, it offers an administration interface for managing movies, theaters, and showtimes, ensuring efficient operations.
+[![Watch the video for demo]](https://drive.google.com/file/d/1R8GdCYRw8Byn17ZBN_ij39ahQ5dGH9vM/view)
+
 
 ## System Overview
 The Movie Ticket Booking System allows users to search for movies, view showtimes, select seats, and book tickets. It includes features for both users and administrators. Users can browse movies, view showtimes, choose seats, and make reservations. Administrators, on the other hand, can manage movies, theaters, and showtimes. The system also utilizes Celery, a distributed task queue, to automate background tasks such as sending reminder emails and generating reports.
